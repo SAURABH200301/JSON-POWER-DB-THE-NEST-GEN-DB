@@ -48,3 +48,7 @@ Here is the example of simplest JPDB API PUT as example:
 
 
 ![image](https://user-images.githubusercontent.com/80611268/217008656-0893a5cd-c8ba-40a7-96c3-26f45590c288.png)
+### Api used in talend api tester
+
+![image](https://user-images.githubusercontent.com/80611268/217009494-89ee3485-2bc5-426f-bb0d-f75b11392597.png)
+
